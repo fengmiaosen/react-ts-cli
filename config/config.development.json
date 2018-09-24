@@ -1,0 +1,6 @@
+{
+  "assetsSubDirectory": "static",
+  "apiUrl": "http://localhost:9000/",
+  "ifDEV": true,
+  "port": 4000
+}

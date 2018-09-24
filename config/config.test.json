@@ -1,0 +1,6 @@
+{
+  "assetsSubDirectory": "static",
+  "apiUrl": "http://www.baidu.com/",
+  "ifDEV": false,
+  "port": 4050
+}
